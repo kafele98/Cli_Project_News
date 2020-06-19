@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require './lib/protest_news'
+
+ProtestNews::CLI.new.call
